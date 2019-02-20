@@ -11,7 +11,7 @@
     <meta name="author" content="">
 
     <title>@yield('title') Tokap Admin</title>
-    <link rel="ikon" type="image/png" href="{{url('favicon.png')}}">
+    <link rel="icon" type="image/png" href="{{url('favicon.png')}}">
     <!-- Bootstrap core CSS-->
     <link href="{{url('theme-sbadmin/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
 
